@@ -1,2 +1,2 @@
-import App from '@jiku/values-react-app'
+import App from '@jiku/omni-react-app'
 export default App
