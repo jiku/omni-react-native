@@ -6,7 +6,6 @@
   "scripts": {
     "start:with-symlinks-fix": "node ./symlinks-fix.js",
     "start": "react-native-scripts start",
-    "start:expo": "exp start",
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
