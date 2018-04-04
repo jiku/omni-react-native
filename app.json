@@ -1,5 +1,21 @@
 {
   "expo": {
-    "sdkVersion": "26.0.0"
+    "name": "react-omni",
+    "description": "...",
+    "slug": "react-omni",
+    "privacy": "unlisted",
+    "sdkVersion": "26.0.0",
+    "version": "0.1.0",
+    "ios": {
+      "supportsTablet": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "*"
+      ]
+    },
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ]
   }
 }
