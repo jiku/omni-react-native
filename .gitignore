@@ -2,6 +2,8 @@
 
 # expo
 .expo/
+assets/
+symlinks-config.js
 
 # dependencies
 /node_modules
