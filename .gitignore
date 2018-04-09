@@ -8,6 +8,10 @@ symlinks-config.js
 # dependencies
 /node_modules
 
+# vscode
+
+.vscode/.react/
+
 # misc
 .env.local
 .env.development.local
