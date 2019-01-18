@@ -4,14 +4,14 @@
     "description": "...",
     "slug": "react-omni",
     "privacy": "unlisted",
-    "sdkVersion": "26.0.0",
-    "version": "0.1.0",
+    "sdkVersion": "32.0.0",
+    "version": "0.1.1",
     "ios": {
       "supportsTablet": true
     },
     "packagerOpts": {
       "projectRoots": "",
-      "config": "symlinks-config.js",
+      "config": "rn-cli.config.js",
       "assetExts": [
         "*"
       ]
